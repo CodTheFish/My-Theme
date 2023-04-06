@@ -1,10 +1,5 @@
-@import url(https://objectiveslayer.github.io/ComfyGray/ComfyGray.css);
-@import url(https://objectiveslayer.github.io/ComfyGray/addons/icon%20replace%20by%20Obscure.%234719.css);
-@import url(https://objectiveslayer.github.io/ComfyGray/addons/radial%20status%20icons%20by%20Gibbu%231211.css);
-@import url(https://objectiveslayer.github.io/ComfyGray/addons/server-rings.css);
-@import url(https://objectiveslayer.github.io/ComfyGray/addons/homeicon.css);
-@import url(https://objectiveslayer.github.io/ComfyGray/addons/roles.css);
-@import url('https://mr-miner1.github.io/Better-Badges/src/badges.css');
+@import url(https://github.com/schnensch0/zelk/blob/cad0db59590d0ba56880d9b9483e5dcf15b2df44/zelk.css);
+@import url(https://raw.githack.com/schnensch0/zelk/main/colors/gray.css);
 :root{
     --badge-size: 22px; /*discord defualt = 18px, theme defualt = 22px;*/
     --badge-margin: 1.5px; /*discord default = 2px, theme defualt = 1.5px*/
